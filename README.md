@@ -40,23 +40,18 @@
 🛠️ I’m currently working on:
 
 - 🌡️ A prototype for monitoring HVAC systems in server rooms and computer labs using Modbus and LoRa
-- 💻 Laravel-based web applications with TailwindCSS and AlpineJS
+- 💻 Laravel-based web applications with TailwindCSS 
+- 💻 Flask based web applications with MongoDB
+- 💻 React js portofolio website
 
 🔍 Interests:
 
 - Embedded Systems (Arduino, ESP32)
 - IoT & Wireless Sensor Networks
-- Web Development (Laravel, Vue, TailwindCSS)
+- Web Development (Laravel, React.js, Flask)
 - Automation and Smart Devices
 
-🧰 Tech Stack:
-
-```bash
-Languages:     C/C++, PHP, JavaScript, Python
-Microcontrollers: ESP32, Arduino, ATmega328P
-Frameworks:    Laravel, Vue.js
-Tools:         Git, VS Code, Figma, Firebase, Arduino IDE, PlatformIO
-```
+<h2 align="left">Lets Play With Me</h2>
 
 ###
 
